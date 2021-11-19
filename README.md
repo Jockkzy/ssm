@@ -1,2 +1,3 @@
 # 一个ssm基本的员工CRUD
-通过AJAX提交数据,前端使用Bootstrap
+基于Maven+SpringMVC+Spring+MyBatis+Bootstrap的组合，通过AJAX提交数据,前端使用Bootstrap
+使用MyBatis逆向工程，Rest风格的URI，@ResponseBody注解完成AJAX，AJAX发送PUT请求的问题，jQuery前端校验
